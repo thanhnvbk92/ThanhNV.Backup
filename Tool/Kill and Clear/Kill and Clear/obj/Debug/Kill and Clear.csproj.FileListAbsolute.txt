@@ -1,0 +1,6 @@
+c:\users\4pe\documents\visual studio 2013\Projects\Kill and Clear\Kill and Clear\bin\Debug\Kill and Clear.exe.config
+c:\users\4pe\documents\visual studio 2013\Projects\Kill and Clear\Kill and Clear\bin\Debug\Kill and Clear.exe
+c:\users\4pe\documents\visual studio 2013\Projects\Kill and Clear\Kill and Clear\bin\Debug\Kill and Clear.pdb
+c:\users\4pe\documents\visual studio 2013\Projects\Kill and Clear\Kill and Clear\obj\Debug\Kill and Clear.csprojResolveAssemblyReference.cache
+c:\users\4pe\documents\visual studio 2013\Projects\Kill and Clear\Kill and Clear\obj\Debug\Kill and Clear.exe
+c:\users\4pe\documents\visual studio 2013\Projects\Kill and Clear\Kill and Clear\obj\Debug\Kill and Clear.pdb
